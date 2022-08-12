@@ -1,0 +1,13 @@
+@font-face {
+    font-family:Ubuntu;
+    src: url(Fonts/UbuntuMono-Regular.ttf);
+}
+
+* {
+    font-family: Ubuntu ;
+}
+
+h1 {
+    font-size: 48px;
+}
+
